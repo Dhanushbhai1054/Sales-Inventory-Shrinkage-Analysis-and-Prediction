@@ -30,3 +30,39 @@ Three main datasets are used in this project:
    - `return_reason`: Reason for return (e.g., damaged, wrong item)  
 
 ---
+## Methodology & Pipeline
+
+1. **Data Cleaning & Preparation**  
+   - Loaded datasets, ensured consistent date formats.  
+   - Aggregated total stock added (`stock_in`), sales (`quantity_sold`), and returns (`quantity_returned`) by `product_id`.  
+   - Merged datasets to calculate **shrinkage** as:  
+     `shrinkage = stock_in - (quantity_sold - quantity_returned)`
+
+2. **Exploratory Data Analysis (EDA)**  
+   - Visualized top products by shrinkage using bar charts.  
+   - Calculated KPIs: total sales revenue, total returns, shrinkage per product.
+
+3. **Model Building**  
+   - Used Linear Regression to predict shrinkage based on:  
+     - Stock added  
+     - Quantity sold  
+     - Quantity returned  
+   - Split data into training and testing sets.  
+   - Evaluated model performance using R² score (~0.99).
+
+4. **Prediction on New Data**  
+   - Loaded new monthly inventory and sales data.  
+   - Predicted shrinkage values using the trained model.  
+   - Saved predictions for business use.
+
+---
+
+## Technologies Used
+
+- Python 3  
+- Pandas for data manipulation  
+- Matplotlib & Plotly for visualization  
+- Scikit-learn for regression modeling  
+- Jupyter Notebook for interactive development and reporting  
+
+---
