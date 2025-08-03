@@ -66,3 +66,27 @@ Three main datasets are used in this project:
 - Jupyter Notebook for interactive development and reporting  
 
 ---
+## How to Use
+
+1. Clone the repository.  
+2. Load your datasets into the `data/` folder.  
+3. Run the notebook `sales_shrinkage_prediction.ipynb` to perform analysis and generate predictions.  
+4. Visualize insights and export reports in HTML format for sharing.  
+5. Optionally, use the trained model to predict shrinkage on new datasets.
+
+---
+
+## Insights & Business Impact
+
+- **Top shrinkage products identified:** Helps prioritize inventory audits.  
+- **Accurate shrinkage prediction:** Enables proactive stock management and loss reduction strategies.  
+- **Returns analysis:** Provides insight into product quality or customer satisfaction issues.  
+- **Interactive dashboards:** Facilitate easy monitoring of KPIs by business teams.
+
+---
+
+## Conclusion
+
+This project demonstrates how combining sales, inventory, and return data can reveal hidden losses through shrinkage analysis. Predictive modeling empowers retailers to anticipate losses and optimize stock management, ultimately improving profitability.
+
+---
