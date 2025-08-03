@@ -76,6 +76,9 @@ Three main datasets are used in this project:
 
 ---
 
+* <img width="1776" height="448" alt="image" src="https://github.com/user-attachments/assets/daf8ef73-21b8-46e4-8b5c-f85bd1f717fa" />
+
+
 ## Insights & Business Impact
 
 - **Top shrinkage products identified:** Helps prioritize inventory audits.  
