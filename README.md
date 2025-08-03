@@ -7,6 +7,8 @@ This project analyzes retail inventory shrinkage by combining datasets on stock,
 
 Three main datasets are used in this project:
 
+The project uses synthetic datasets designed to mimic real-world retail inventory, sales, and return scenarios. Synthetic data was created to simulate realistic stock movements, sales patterns, and return behaviors, ensuring the analysis and models are applicable to practical retail environments while maintaining data privacy.
+
 1. **Inventory Dataset**  
    Contains daily records of stock movements for products.
    - `date`: Date of record  
@@ -30,6 +32,10 @@ Three main datasets are used in this project:
    - `return_reason`: Reason for return (e.g., damaged, wrong item)  
 
 ---
+
+Why Synthetic Data?
+Synthetic data was used to simulate a controlled retail environment, allowing robust model development without access to proprietary data. The datasets were crafted to include realistic patterns (e.g., seasonal sales spikes, variable return rates) and challenges (e.g., missing values, inconsistent formats) to mirror real-world complexities, ensuring the models and insights are transferable to actual retail scenarios.
+
 ## Methodology & Pipeline
 
 1. **Data Cleaning & Preparation**  
