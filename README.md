@@ -75,8 +75,39 @@ Three main datasets are used in this project:
 5. Optionally, use the trained model to predict shrinkage on new datasets.
 
 ---
-
+#### TOP 10 Products by Inventory shrinkage
 * <img width="1776" height="448" alt="image" src="https://github.com/user-attachments/assets/daf8ef73-21b8-46e4-8b5c-f85bd1f717fa" />
+---
+#### Model
+* Model R² score: 0.9895746689563556
+* Random Forest R²: 0.7687706838820284
+* Gradient Boosting R²: 0.8382298875721109
+
+ *Linear regression is better in compare dto both Random Forest and Gradient Boosting
+
+ #### Residual Distribution
+ <img width="1767" height="443" alt="image" src="https://github.com/user-attachments/assets/1c3db224-d8e9-4894-9204-da1c78a51c0b" />
+ 
+ #### Residual vs Shrinkage
+ <img width="1772" height="441" alt="image" src="https://github.com/user-attachments/assets/0d6c8e11-023d-41ff-b284-4a8b3490fcbe" />
+
+ ---
+#### Predicted shrinkage per Product
+<img width="1771" height="449" alt="image" src="https://github.com/user-attachments/assets/e016e90c-84a9-44a0-b105-9981e687ec44" />
+
+
+----
+
+### Dashboard
+
+<img width="291" height="71" alt="image" src="https://github.com/user-attachments/assets/07ed8de7-6a6d-4b00-87d3-16762600d7a7" />
+
+<img width="1493" height="890" alt="image" src="https://github.com/user-attachments/assets/666a04d2-016e-48f9-8d9e-355f986044f5" />
+
+----
+Inventory Overview
+<img width="1825" height="411" alt="image" src="https://github.com/user-attachments/assets/7038d1be-341b-4af6-ab87-8f824fa04ed4" />
+
 
 
 ## Insights & Business Impact
