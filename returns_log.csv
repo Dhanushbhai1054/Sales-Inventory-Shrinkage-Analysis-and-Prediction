@@ -1,0 +1,235 @@
+date,product_id,quantity_returned,return_reason
+2023-01-01,P009,1,Wrong item
+2023-01-01,P001,1,Wrong item
+2023-01-01,P018,1,Customer changed mind
+2023-01-02,P011,1,Wrong item
+2023-01-02,P018,1,Damaged
+2023-01-03,P004,1,Wrong item
+2023-01-03,P011,2,Wrong item
+2023-01-05,P016,1,Customer changed mind
+2023-01-05,P005,1,Wrong item
+2023-01-05,P019,1,Customer changed mind
+2023-01-05,P017,1,Wrong item
+2023-01-05,P003,1,Customer changed mind
+2023-01-06,P001,1,Damaged
+2023-01-06,P004,1,Wrong item
+2023-01-07,P017,1,Wrong item
+2023-01-07,P004,1,Wrong item
+2023-01-07,P008,1,Customer changed mind
+2023-01-08,P005,2,Customer changed mind
+2023-01-08,P013,1,Customer changed mind
+2023-01-08,P008,1,Customer changed mind
+2023-01-09,P003,1,Damaged
+2023-01-09,P005,2,Damaged
+2023-01-09,P019,2,Damaged
+2023-01-09,P005,1,Damaged
+2023-01-10,P004,1,Wrong item
+2023-01-10,P016,1,Wrong item
+2023-01-10,P007,1,Wrong item
+2023-01-11,P010,2,Wrong item
+2023-01-11,P020,2,Customer changed mind
+2023-01-12,P011,2,Wrong item
+2023-01-12,P008,2,Damaged
+2023-01-12,P012,1,Damaged
+2023-01-13,P020,1,Customer changed mind
+2023-01-13,P001,1,Damaged
+2023-01-14,P009,1,Damaged
+2023-01-14,P018,1,Wrong item
+2023-01-15,P004,1,Wrong item
+2023-01-15,P016,1,Wrong item
+2023-01-16,P007,2,Damaged
+2023-01-16,P009,1,Customer changed mind
+2023-01-16,P013,1,Damaged
+2023-01-17,P014,2,Wrong item
+2023-01-17,P010,1,Customer changed mind
+2023-01-17,P016,1,Wrong item
+2023-01-18,P006,1,Wrong item
+2023-01-18,P003,1,Customer changed mind
+2023-01-18,P004,2,Wrong item
+2023-01-18,P008,1,Damaged
+2023-01-19,P010,1,Wrong item
+2023-01-19,P011,1,Damaged
+2023-01-19,P017,1,Damaged
+2023-01-20,P008,1,Wrong item
+2023-01-20,P009,1,Customer changed mind
+2023-01-22,P012,1,Wrong item
+2023-01-22,P011,1,Wrong item
+2023-01-22,P018,1,Damaged
+2023-01-22,P008,1,Damaged
+2023-01-23,P017,1,Customer changed mind
+2023-01-23,P020,1,Damaged
+2023-01-24,P009,2,Wrong item
+2023-01-24,P005,1,Wrong item
+2023-01-25,P015,1,Wrong item
+2023-01-25,P020,1,Wrong item
+2023-01-26,P002,1,Wrong item
+2023-01-27,P008,1,Wrong item
+2023-01-27,P013,2,Customer changed mind
+2023-01-28,P009,1,Damaged
+2023-01-28,P014,2,Customer changed mind
+2023-01-29,P014,1,Wrong item
+2023-01-29,P016,1,Damaged
+2023-01-29,P013,1,Customer changed mind
+2023-01-29,P020,1,Wrong item
+2023-01-29,P017,1,Wrong item
+2023-01-30,P018,1,Wrong item
+2023-01-30,P013,2,Customer changed mind
+2023-01-31,P010,1,Wrong item
+2023-01-31,P013,1,Damaged
+2023-02-01,P016,1,Wrong item
+2023-02-01,P018,2,Customer changed mind
+2023-02-02,P010,1,Damaged
+2023-02-02,P007,1,Wrong item
+2023-02-03,P011,1,Damaged
+2023-02-03,P007,2,Customer changed mind
+2023-02-03,P016,1,Wrong item
+2023-02-04,P006,2,Wrong item
+2023-02-04,P005,1,Damaged
+2023-02-04,P009,1,Wrong item
+2023-02-05,P010,1,Wrong item
+2023-02-05,P010,1,Customer changed mind
+2023-02-06,P003,1,Damaged
+2023-02-06,P010,1,Customer changed mind
+2023-02-06,P004,1,Wrong item
+2023-02-07,P002,1,Damaged
+2023-02-08,P009,2,Wrong item
+2023-02-08,P011,2,Damaged
+2023-02-08,P013,1,Customer changed mind
+2023-02-09,P010,2,Customer changed mind
+2023-02-09,P001,1,Wrong item
+2023-02-09,P001,1,Customer changed mind
+2023-02-10,P012,2,Customer changed mind
+2023-02-10,P009,1,Customer changed mind
+2023-02-11,P013,1,Customer changed mind
+2023-02-11,P002,1,Wrong item
+2023-02-12,P006,1,Customer changed mind
+2023-02-12,P001,1,Customer changed mind
+2023-02-13,P010,1,Damaged
+2023-02-13,P020,2,Wrong item
+2023-02-14,P001,2,Damaged
+2023-02-14,P007,1,Wrong item
+2023-02-14,P004,1,Wrong item
+2023-02-15,P001,1,Damaged
+2023-02-15,P007,1,Wrong item
+2023-02-16,P011,2,Wrong item
+2023-02-16,P005,1,Customer changed mind
+2023-02-16,P018,1,Customer changed mind
+2023-02-16,P004,1,Damaged
+2023-02-17,P001,1,Damaged
+2023-02-17,P010,1,Damaged
+2023-02-18,P014,1,Damaged
+2023-02-18,P014,2,Customer changed mind
+2023-02-19,P006,1,Wrong item
+2023-02-19,P013,1,Customer changed mind
+2023-02-20,P012,1,Wrong item
+2023-02-21,P003,1,Customer changed mind
+2023-02-21,P005,1,Customer changed mind
+2023-02-21,P009,1,Damaged
+2023-02-22,P002,1,Wrong item
+2023-02-22,P014,1,Customer changed mind
+2023-02-22,P002,2,Customer changed mind
+2023-02-23,P002,2,Damaged
+2023-02-23,P014,2,Wrong item
+2023-02-23,P009,2,Damaged
+2023-02-23,P012,1,Customer changed mind
+2023-02-23,P003,1,Damaged
+2023-02-24,P015,1,Wrong item
+2023-02-24,P011,1,Customer changed mind
+2023-02-24,P019,1,Customer changed mind
+2023-02-24,P005,1,Damaged
+2023-02-25,P002,1,Damaged
+2023-02-25,P008,1,Damaged
+2023-02-25,P009,1,Wrong item
+2023-02-25,P020,1,Damaged
+2023-02-25,P012,1,Customer changed mind
+2023-02-26,P018,2,Damaged
+2023-02-26,P010,1,Wrong item
+2023-02-26,P020,1,Damaged
+2023-02-26,P003,2,Customer changed mind
+2023-02-27,P004,1,Wrong item
+2023-02-27,P010,1,Wrong item
+2023-02-27,P002,2,Wrong item
+2023-02-28,P016,1,Customer changed mind
+2023-02-28,P001,1,Damaged
+2023-03-01,P017,2,Damaged
+2023-03-01,P003,1,Wrong item
+2023-03-02,P016,1,Wrong item
+2023-03-02,P014,2,Customer changed mind
+2023-03-02,P011,1,Damaged
+2023-03-03,P014,1,Wrong item
+2023-03-03,P020,1,Damaged
+2023-03-04,P006,1,Customer changed mind
+2023-03-05,P005,1,Wrong item
+2023-03-05,P016,1,Wrong item
+2023-03-06,P015,1,Customer changed mind
+2023-03-06,P012,1,Damaged
+2023-03-06,P014,1,Customer changed mind
+2023-03-07,P008,1,Customer changed mind
+2023-03-07,P020,2,Wrong item
+2023-03-07,P008,2,Wrong item
+2023-03-08,P002,1,Customer changed mind
+2023-03-08,P006,1,Damaged
+2023-03-08,P009,1,Wrong item
+2023-03-08,P014,1,Customer changed mind
+2023-03-09,P018,1,Customer changed mind
+2023-03-09,P017,1,Wrong item
+2023-03-09,P003,1,Damaged
+2023-03-09,P009,1,Damaged
+2023-03-10,P010,1,Customer changed mind
+2023-03-10,P005,1,Wrong item
+2023-03-10,P014,1,Damaged
+2023-03-10,P013,1,Wrong item
+2023-03-11,P002,1,Wrong item
+2023-03-11,P017,1,Customer changed mind
+2023-03-11,P007,1,Wrong item
+2023-03-11,P014,1,Customer changed mind
+2023-03-11,P014,2,Customer changed mind
+2023-03-12,P005,1,Damaged
+2023-03-12,P006,1,Damaged
+2023-03-12,P017,1,Wrong item
+2023-03-12,P016,1,Wrong item
+2023-03-13,P017,1,Wrong item
+2023-03-13,P011,1,Customer changed mind
+2023-03-13,P004,1,Wrong item
+2023-03-14,P014,1,Wrong item
+2023-03-14,P006,1,Wrong item
+2023-03-15,P011,1,Damaged
+2023-03-16,P017,1,Damaged
+2023-03-16,P001,1,Wrong item
+2023-03-16,P005,1,Wrong item
+2023-03-17,P010,1,Damaged
+2023-03-17,P012,1,Wrong item
+2023-03-17,P012,1,Wrong item
+2023-03-18,P004,1,Customer changed mind
+2023-03-18,P017,2,Damaged
+2023-03-18,P001,1,Customer changed mind
+2023-03-19,P003,1,Wrong item
+2023-03-20,P012,1,Customer changed mind
+2023-03-20,P007,2,Wrong item
+2023-03-20,P012,1,Damaged
+2023-03-21,P007,1,Wrong item
+2023-03-21,P007,1,Wrong item
+2023-03-21,P013,1,Damaged
+2023-03-22,P010,1,Customer changed mind
+2023-03-23,P010,1,Customer changed mind
+2023-03-23,P011,1,Damaged
+2023-03-23,P016,1,Damaged
+2023-03-24,P012,1,Damaged
+2023-03-25,P013,1,Damaged
+2023-03-25,P002,1,Damaged
+2023-03-26,P018,1,Wrong item
+2023-03-26,P007,1,Customer changed mind
+2023-03-26,P018,1,Customer changed mind
+2023-03-27,P017,1,Wrong item
+2023-03-27,P009,1,Customer changed mind
+2023-03-28,P010,1,Damaged
+2023-03-29,P019,2,Damaged
+2023-03-29,P001,1,Customer changed mind
+2023-03-29,P008,1,Damaged
+2023-03-29,P009,1,Wrong item
+2023-03-30,P006,2,Customer changed mind
+2023-03-30,P009,1,Damaged
+2023-03-30,P004,1,Customer changed mind
+2023-03-31,P008,2,Damaged
+2023-03-31,P004,1,Wrong item
+2023-03-31,P010,1,Customer changed mind
